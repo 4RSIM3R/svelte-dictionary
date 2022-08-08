@@ -1,9 +1,12 @@
 <script>
     import { goto } from "$app/navigation";
+    import { onMount } from "svelte";
 
     function handleSignInButton() {
         goto("/menu");
     }
+
+    onMount(() => {});
 </script>
 
 <div class="min-h-screen flex flex-col justify-center items-center">
