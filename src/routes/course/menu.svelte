@@ -4,6 +4,14 @@
     function handleBusinessVerbsButton() {
         goto("business_verb");
     }
+
+    function handleBusinessNounButton() {
+        goto("business_noun");
+    }
+
+    function handleBusinessAbbreviationButton() {
+        goto("business_abbreviation");
+    }
 </script>
 
 <div class="min-h-screen flex flex-col p-8">
@@ -16,14 +24,14 @@
                 <p class="text-white font-medium">100 Business Verbs</p>
             </div>
         </div>
-        <div class="col-span-6">
+        <div class="col-span-6" on:click={handleBusinessNounButton}>
             <div
                 class="w-full h-20 bg-slate-800 rounded-md p-3 flex flex-col justify-end"
             >
                 <p class="text-white font-medium">100 Business Noun</p>
             </div>
         </div>
-        <div class="col-span-6">
+        <div class="col-span-6" on:click={handleBusinessAbbreviationButton}>
             <div
                 class="w-full h-20 bg-slate-800  rounded-md p-3 flex flex-col justify-end"
             >

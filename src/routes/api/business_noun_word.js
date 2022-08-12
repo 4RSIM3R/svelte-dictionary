@@ -1,4 +1,4 @@
-export const businessVerbsWords = [
+export const businessNounWords = [
     {
         "NO": 1,
         "WORD": "Advertisement",
