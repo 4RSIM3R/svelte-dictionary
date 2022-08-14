@@ -12,6 +12,10 @@
     function handleBusinessAbbreviationButton() {
         goto("business_abbreviation");
     }
+
+    function handleBusinessConversation() {
+        goto("/conversation");
+    }
 </script>
 
 <div class="min-h-screen flex flex-col p-8">
@@ -38,7 +42,7 @@
                 <p class="text-white font-medium">50 Business Abbreviations</p>
             </div>
         </div>
-        <div class="col-span-6">
+        <div class="col-span-6" on:click={handleBusinessConversation}>
             <div
                 class="w-full h-20 bg-slate-800  rounded-md p-3 flex flex-col justify-end"
             >
