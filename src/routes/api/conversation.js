@@ -73,7 +73,15 @@ export const conversationDetail = {
         },
         {
             "name" : "Diana",
-            "message": "Oh hi Diana, well its been since we graduated from university, right?"
+            "message": "Yes. You look gorgeous, where are you going? "
+        },
+        {
+            "name" : "Steven",
+            "message": "Yes. You look gorgeous, where are you going? "
+        },
+        {
+            "name" : "Diana",
+            "message": "Yes. You look gorgeous, where are you going? "
         },
     ]
 }
