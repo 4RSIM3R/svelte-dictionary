@@ -1924,5 +1924,171 @@ export const conversationDetail = {
             "name" : "Intern",
             "message": "Ok, I will remember your message carefully."
         }
+    ],
+    46: [
+        {
+            "name" : "Karin",
+            "message": "Excuse me. I am Karin from Refa bakery. I am here as a representative of Refa bakery to discuss the cooperation plan between our bakery and Bon cafe"
+        },
+        {
+            "name" : "Daniel",
+            "message": "Oh thanks for coming Karin. I’m Daniel the General Manager of Bon Café. Have a seat please. "
+        },
+        {
+            "name" : "Karin",
+            "message": "Thanks. So how do you plan to our collaboration?"
+        },
+        {
+            "name" : "Daniel",
+            "message": "OK, so our cafe is a cafe that has a characteristic coffee base with local beans and carries a traditional theme. We heard that your bakery also provides traditional snacks too. so from here came the idea to work with your bakery. "
+        },
+        {
+            "name" : "Karin",
+            "message": "yes that's right, our bakery sells various types of snacks and we also provide traditional snacks. Then what kind of plan do you propose?"
+        },
+        {
+            "name" : "Daniel",
+            "message": "I want Refa bakery to be a snack menu supplier for our cafe. What do you think?"
+        },
+        {
+            "name" : "Karin",
+            "message": "I think this is a good idea. but to be considered beforehand, we want the name of Refa bakery to remain on the packaging and not become the property of the cafe. Do you agree?"
+        },
+        {
+            "name" : "Daniel",
+            "message": "No big deal, my goal is to become a business partner between Bon Cafe and Refa Bakery. For now,  we have not determined the selling price and percentage of sales. Can I go to Refa Bakery to do a food survey first?"
+        },
+        {
+            "name" : "Karin",
+            "message": "Of course. We’ll happy to see you."
+        },
+        {
+            "name" : "Daniel",
+            "message": "Thanks."
+        }
+    ],
+    47: [
+        {
+            "name" : "Raka",
+            "message": "Byan, do you have a relationship that has a business in the field of advertising services?"
+        },
+        {
+            "name" : "Byan",
+            "message": "I'll try to remember, I think I have. Anyway, what are you looking for it? "
+        },
+        {
+            "name" : "Raka",
+            "message": "I need to advertise my business. I've done my own marketing but I don't think it has any effect. I want to invite people who are passionate about advertising to be my business partners."
+        },
+        {
+            "name" : "Byan",
+            "message": "Why don't you hire people who are proficient in marketing? I think it's more efficient."
+        },
+        {
+            "name" : "Raka",
+            "message": "Actually that's a great idea. but you know my business hasn't grown big and if I have to recruit new employees again I think it will be difficult for our finances. for that now I am still looking for advertising services from other companies first so that later I can increase sales and recruit new employees."
+        },
+        {
+            "name" : "Byan",
+            "message": "Fine if that's your decision. I will try to contact some of my relations to ask what you need."
+        },
+        {
+            "name" : "Raka",
+            "message": "Thanks in advance"
+        },
+        {
+            "name" : "Byan",
+            "message": "Don’t mention it."
+        }
+    ],
+    48: [
+        {
+            "name" : "Ali",
+            "message": "I heard the Dino Company is working with some small businesses to increase their sales?"
+        },
+        {
+            "name" : "Shiren",
+            "message": "You're right. Dino company supplies their products to the community's small businesses with. if their business takes stock of goods from the Dino Company, they will get a bigger bonus or discount."
+        },
+        {
+            "name" : "Ali",
+            "message": "Does it not lead to inflation of the company's finances?"
+        },
+        {
+            "name" : "Shiren",
+            "message": "In my opinion, Dino Company is a business partner for small entrepreneurs. This is one way for Dino Company to disseminate the products they sell. The more partners you get, the more sales you get."
+        },
+        {
+            "name" : "Ali",
+            "message": "I don’t think that far."
+        },
+        {
+            "name" : "Shiren",
+            "message": "It’s a good marketing management"
+        },
+        {
+            "name" : "Ali",
+            "message": "I agree."
+        }
+    ],
+    49: [
+        {
+            "name" : "Fara",
+            "message": "Hello Mrs. Vania, how are you?"
+        },
+        {
+            "name" : "Vania",
+            "message": "I am good, thanks for coming. Well let’s get into our discussion directly."
+        },
+        {
+            "name" : "Fara",
+            "message": "Okay. According to the results of our discussion last meeting, this time we will discuss the continued cooperation between you and our company."
+        },
+        {
+            "name" : "Vania",
+            "message": "After I considered, I agreed to invest in this company. after I read the document you provided yesterday, I feel I am suitable to invest here."
+        },
+        {
+            "name" : "Fara",
+            "message": "Amazing decision. Thanks for being our business partner. This is the MoU that you must sign. Please read carefully and if you are certain, please sign the agreement below here."
+        },
+        {
+            "name" : "Vania",
+            "message": "Let me read it first."
+        },
+        {
+            "name" : "Fara",
+            "message": "Fine, take your time."
+        }
+    ],
+    50: [
+        {
+            "name" : "Bianca",
+            "message": "We have to prepare the AGM on an hour."
+        },
+        {
+            "name" : "Angga",
+            "message": "I almost forgot. What we will discuss at this meeting ?"
+        },
+        {
+            "name" : "Bianca",
+            "message": "Have you not heard that the director is planning to cooperate with a fabric factory as the company's business partner?"
+        },
+        {
+            "name" : "Angga",
+            "message": "Yes i have. Wasn't that plan already planned from last year?"
+        },
+        {
+            "name" : "Bianca",
+            "message": "Yes it was. After being planned last year, the operational team conducted a long survey to determine a good fabric factory and in accordance with the specified criteria."
+        },
+        {
+            "name" : "Angga",
+            "message": "Then, have they got the right factory now?"
+        },
+        {
+            "name" : "Bianca",
+            "message": "Yes they have, so that we’ll discuss it in AGM to discuss the capital expenditures."
+        }
     ]
 }
