@@ -149,6 +149,36 @@ export const listConversation = [
         "subtitle": "Conversation - 25",
         "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
     },
+    {
+        "id": 26,
+        "title" : "Make Appointment with The CEO",
+        "subtitle": "Conversation - 26",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 27,
+        "title" : "Make Appointment with The CEO",
+        "subtitle": "Conversation - 27",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 28,
+        "title" : "Make Appointment with The CEO",
+        "subtitle": "Conversation - 28",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 29,
+        "title" : "Make Appointment with The CEO",
+        "subtitle": "Conversation - 29",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 30,
+        "title" : "Make Appointment with The CEO",
+        "subtitle": "Conversation - 30",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
 ];
 
 export const conversationDetail = {
@@ -1043,4 +1073,190 @@ export const conversationDetail = {
             "message": "You are stubborn. I hope you find a suitable person soon."
         }
     ],
+    26: [
+        {
+            "name" : "Mr. Smith",
+            "message": "Good afternoon, Sir."
+        },
+        {
+            "name" : "Sir Alex",
+            "message": "Good afternoon, Mr. Smith. How do you do?"
+        },
+        {
+            "name" : "Mr. Smith",
+            "message": "How do you do. We would like to discuss a new project with you. When is the best time for you?"
+        },
+        {
+            "name" : "Sir Alex",
+            "message": "I still have a business trip until the end of this week. How about next Friday?"
+        },
+        {
+            "name" : "Mr. Smith",
+            "message": "That's good. I will finalize the preparation of the proposal first."
+        },
+        {
+            "name" : "Sir Alex",
+            "message": "Alright, I'll check my schedule, and my assistant will email you the exact time."
+        },
+        {
+            "name" : "Mr. Smith",
+            "message": "Okay. I will make sure the other committees are notified of this."
+        },
+        {
+            "name" : "Sir Alex",
+            "message": "Good. Please attach all the supporting files for this project contract."
+        },
+        {
+            "name" : "Mr. Smith",
+            "message": "Yes, Sir. I will contact you as soon as possible."
+        }
+    ],
+    27: [
+        {
+            "name" : "Secretary",
+            "message": "Welcome to Patria Inc. How may I help you?"
+        },
+        {
+            "name" : "Rendy",
+            "message": "Hello thank you. I'm Rendy, sales team manager from Joove company."
+        },
+        {
+            "name" : "Secretary",
+            "message": "Do you have an appointment?"
+        },
+        {
+            "name" : "Rendy",
+            "message": "Yes, I have but Mr. Brown said he is not here today. Can I take a message?"
+        },
+        {
+            "name" : "Secretary",
+            "message": "Sure, I'll give him your message as soon as he gets back."
+        },
+        {
+            "name" : "Rendy",
+            "message": "Thanks. Could you give me your mobile number, please?"
+        },
+        {
+            "name" : "Secretary",
+            "message": "Sorry, but I'm not allowed to give details about that."
+        },
+        {
+            "name" : "Rendy",
+            "message": "I'll ask him to call you as soon as he gets back."
+        }
+    ],
+    28: [
+        {
+            "name" : "Mr. Brown",
+            "message": "Excuse me, Mrs. North. Has Sir Alex contacted you?"
+        },
+        {
+            "name" : "Mrs. North",
+            "message": "Geez, is Sir Alex from the Joove company?"
+        },
+        {
+            "name" : "Mr. Brown",
+            "message": "Yes, he said he would contact you to work on our follow-up project."
+        },
+        {
+            "name" : "Mrs. North",
+            "message": "I'm sorry, Mr. Brown. He has been contacting me since Wednesday. I just checked it out today."
+        },
+        {
+            "name" : "Mr. Brown",
+            "message": "We have made an appointment to meet on Friday. Immediately reschedule the schedule with Sir Alex, our deal is in danger of failing. I don't want that to happen."
+        },
+        {
+            "name" : "Mrs. North",
+            "message": "All right, Mr. Brown. I am really sorry."
+        },
+        {
+            "name" : "Mr. Brown",
+            "message": "Please be more careful next time."
+        }
+    ],
+    29: [
+        {
+            "name" : "Auditor",
+            "message": "Good afternoon, where is Patria Inc's CEO's room?"
+        },
+        {
+            "name" : "Secretary",
+            "message": "Good afternoon, have you made an appointment?"
+        },
+        {
+            "name" : "Auditor",
+            "message": "Please show me where the office is."
+        },
+        {
+            "name" : "Secretary",
+            "message": "Please show your ID. Not just anyone can meet him."
+        },
+        {
+            "name" : "Auditor",
+            "message": "No need, immediately carry out our orders."
+        },
+        {
+            "name" : "Secretary",
+            "message": "Who are you? Please pay attention to your attitude or I will call the security team."
+        },
+        {
+            "name" : "Auditor",
+            "message": "We are an audit team from the government's functional supervisory apparatus."
+        },
+        {
+            "name" : "Secretary",
+            "message": "Don't make it up. Please show me the warrant. Have you brought it?"
+        },
+        {
+            "name" : "Auditor",
+            "message": "Here is it. Please be cooperated. Do not touch any files. Don't contact anyone. Immediately show me where the office is."
+        },
+        {
+            "name" : "Secretary",
+            "message": "F-f-fine."
+        }
+    ],
+    30: [
+        {
+            "name" : "Auditor",
+            "message": "Good afternoon, Mr. Brown."
+        },
+        {
+            "name" : "Mr. Brown",
+            "message": "Gosh, good afternoon. You surprised me."
+        },
+        {
+            "name" : "Secretary",
+            "message": "I'm sorry Mr. Brown, they suddenly came and forced their way in to meet you."
+        },
+        {
+            "name" : "Mr. Brown",
+            "message": "I don't remember ever meeting you. Have you made an appointment?"
+        },
+        {
+            "name" : "Auditor",
+            "message": "We are an audit team from the government's functional supervisory apparatus. Please cooperate, you are accused of embezzling public financial funds on behalf of the Patria Inc. company."
+        },
+        {
+            "name" : "Mr. Brown",
+            "message": "Wait! Wait! Did you bring a warrant. You can't enter here arbitrarily."
+        },
+        {
+            "name" : "Auditor",
+            "message": "Here he is. Don't touch any files and don't contact anyone. We will check."
+        },
+        {
+            "name" : "Mr. Brown",
+            "message": "No, wait. There seems to be something wrong, I can't do that."
+        },
+        {
+            "name" : "Auditor",
+            "message": "You can testify in the office or have the right to remain silent through an intermediary attorney. Please come with us."
+        },
+        {
+            "name" : "Mr. Brown",
+            "message": "No, no, no."
+        }
+    ]
 }
