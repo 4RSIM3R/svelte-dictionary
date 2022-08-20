@@ -179,6 +179,126 @@ export const listConversation = [
         "subtitle": "Conversation - 30",
         "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
     },
+    {
+        "id": 31,
+        "title" : "Doing A Promotion to Customer",
+        "subtitle": "Conversation - 31",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 32,
+        "title" : "Doing A Promotion to Customer",
+        "subtitle": "Conversation - 32",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 33,
+        "title" : "Doing A Promotion to Customer",
+        "subtitle": "Conversation - 33",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 34,
+        "title" : "Doing A Promotion to Customer",
+        "subtitle": "Conversation - 34",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 35,
+        "title" : "Doing A Promotion to Customer",
+        "subtitle": "Conversation - 35",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 36,
+        "title" : "Talking About Small Business For Students",
+        "subtitle": "Conversation - 36",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 37,
+        "title" : "Talking About Small Business For Students",
+        "subtitle": "Conversation - 37",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 38,
+        "title" : "Talking About Small Business For Students",
+        "subtitle": "Conversation - 38",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 39,
+        "title" : "Talking About Small Business For Students",
+        "subtitle": "Conversation - 39",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 40,
+        "title" : "Talking About Small Business For Students",
+        "subtitle": "Conversation - 40",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 41,
+        "title" : "Talking About Online Business",
+        "subtitle": "Conversation - 41",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 42,
+        "title" : "Talking About Online Business",
+        "subtitle": "Conversation - 42",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 43,
+        "title" : "Talking About Online Business",
+        "subtitle": "Conversation - 43",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 44,
+        "title" : "Talking About Online Business",
+        "subtitle": "Conversation - 44",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 45,
+        "title" : "Talking About Online Business",
+        "subtitle": "Conversation - 45",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 46,
+        "title" : "Business Partner",
+        "subtitle": "Conversation - 46",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 47,
+        "title" : "Business Partner",
+        "subtitle": "Conversation - 47",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 48,
+        "title" : "Business Partner",
+        "subtitle": "Conversation - 48",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 49,
+        "title" : "Business Partner",
+        "subtitle": "Conversation - 49",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    },
+    {
+        "id": 50,
+        "title" : "Business Partner",
+        "subtitle": "Conversation - 50",
+        "image": "https://www.campusfrance.org/sites/default/files/medias/images/2020-07/vignette-job-bis.jpg",
+    }
 ];
 
 export const conversationDetail = {
@@ -1257,6 +1377,552 @@ export const conversationDetail = {
         {
             "name" : "Mr. Brown",
             "message": "No, no, no."
+        }
+    ],
+    31: [
+        {
+            "name" : "Mr. Takur",
+            "message": "Hello, good evening, Mr. Singh. Can you spare a minute of your time?"
+        },
+        {
+            "name" : "Mr. Singh",
+            "message": "Hello, good evening Mr. Takur. Yes, I'm free this time. Please speak, I will listen."
+        },
+        {
+            "name" : "Mr. Takur",
+            "message": "So this is Mr. Singh. I heard you are currently looking for a used laptop with good quality. Is that true?"
+        },
+        {
+            "name" : "Mr. Singh",
+            "message": "Yes, that's right, I've been around used laptop shops, but I haven't found anything that fits. Do you have any good supplies?"
+        },
+        {
+            "name" : "Mr. Takur",
+            "message": "Yes Sir. What series are you looking for? I have some stock from last year. The item is still very smooth."
+        },
+        {
+            "name" : "Mr. Singh",
+            "message": "Please explain in more detail the specifications. I'm looking for a Dell series with 1000 TGB RAM. Do you have that brand? Or the equivalent is also okay."
+        },
+        {
+            "name" : "Mr. Takur",
+            "message": "I have a Dell series but the RAM is only 500GB. However, you can upgrade it in our shop. The processor is Intel 9. Don't you want to see it?"
+        },
+        {
+            "name" : "Mr. Singh",
+            "message": "Well, tomorrow I'll see it. Please save it for me first."
+        },
+        {
+            "name" : "Mr. Takur",
+            "message": "Alright, Mr. Singh. We look forward to your visit."
+        }
+    ],
+    32: [
+        {
+            "name" : "Fahri",
+            "message": "Good afternoon, Uncle Bone."
+        },
+        {
+            "name" : "Uncle Bone",
+            "message": "Hi, good afternoon Fahri. It's a shame you visited here. What's going on?"
+        },
+        {
+            "name" : "Fahri",
+            "message": "It's nothing Uncle. I'm just busy with my college assignments. I suddenly miss wanting to see the chickens on Uncle's farm."
+        },
+        {
+            "name" : "Uncle Bone",
+            "message": "It's just you. Come here, I just opened a new cage, 1000 birds. Aren't you interested in raising chickens?"
+        },
+        {
+            "name" : "Fahri",
+            "message": "I want to Uncle, but I don't know where to start and what resources I need."
+        },
+        {
+            "name" : "Uncle Bone",
+            "message": "You can start with 100 chicks. Buy my chicks. Next week seems to be hatching time."
+        },
+        {
+            "name" : "Fahri",
+            "message": "But I'm afraid I don't have enough savings, Uncle."
+        },
+        {
+            "name" : "Uncle Bone",
+            "message": "You are calm. Take the item first, then enlarge it until it is ready to be cut into chicken. Once you know how to market it, you can share the revenue with me. How do you agree?"
+        },
+        {
+            "name" : "Fahri",
+            "message": "Is it okay, Uncle?"
+        },
+        {
+            "name" : "Uncle Bone",
+            "message": "Of course, hands-on practice will be more beneficial than just learning theory."
+        },
+        {
+            "name" : "Fahri",
+            "message": "All right, Uncle."
+        }
+    ],
+    33: [
+        {
+            "name" : "Employee",
+            "message": "Good morning, Mrs. Lynn."
+        },
+        {
+            "name" : "Mrs. Lynn",
+            "message": "Good morning, is there anything I can help you with?"
+        },
+        {
+            "name" : "Employee",
+            "message": "Excuse me, Mrs. May I interrupt your day for a second? It won't be long, I'm sure you won't regret it. "
+        },
+        {
+            "name" : "Mrs. Lynn",
+            "message": "Are you going to offer me to donate for some cause? Because if so, I'm not interested."
+        },
+        {
+            "name" : "Employee",
+            "message": "No, not at all. I'm here to offer you a life insurance promotion. We're from Garnice insurance company. We would like to give you a discounted membership if you join us today. First of all, do you happen to already have a life insurance before?"
+        },
+        {
+            "name" : "Mrs. Lynn",
+            "message": "No, I haven't got any life insurance. What are the benefits if I join your insurance company?"
+        },
+        {
+            "name" : "Employee",
+            "message": "Our normal membership program is 5 million per month, but if you register today, you will get 30% off for the first three months. Are you interested in joining us?"
+        },
+        {
+            "name" : "Mrs. Lynn",
+            "message": "Not for now. I'm sorry, thank you for the offer, though."
+        }
+    ],
+    34: [
+        {
+            "name" : "Buyer",
+            "message": "These are all the things I bought, Miss."
+        },
+        {
+            "name" : "Cashier",
+            "message": "OK, I'll do the math first. Please wait a moment."
+        },
+        {
+            "name" : "Buyer",
+            "message": "Sure."
+        },
+        {
+            "name" : "Cashier",
+            "message": "Are there any extras?"
+        },
+        {
+            "name" : "Buyer",
+            "message": "It was more than enough."
+        },
+        {
+            "name" : "Cashier",
+            "message": "Don't want to buy the white bread, Mom? Today there is an attractive discount, buy 2 get 1 free."
+        },
+        {
+            "name" : "Buyer",
+            "message": "No, Miss. It's enough."
+        },
+        {
+            "name" : "Cashier",
+            "message": "Or maybe the laundry soap?"
+        },
+        {
+            "name" : "Buyer",
+            "message": "I don't need it. Sorry."
+        },
+        {
+            "name" : "Cashier",
+            "message": "Alright, the total is 50 dollars."
+        },
+        {
+            "name" : "Buyer",
+            "message": "Here is it, please donate the rest."
+        },
+        {
+            "name" : "Cashier",
+            "message": "Thank you. Have a nice day."
+        }
+    ],
+    35: [
+        {
+            "name" : "Seller",
+            "message": "Announcement for all visitors to the 'Dessert' bathing pool. We offer basic needs that will definitely be very useful for you."
+        },
+        {
+            "name" : "Buyer 1",
+            "message": "He must be doing some work from the company."
+        },
+        {
+            "name" : "Buyer 2",
+            "message": "Yeah, it seems so. I used to do that too when I was an intern."
+        },
+        {
+            "name" : "Seller",
+            "message": "Anyone who needs socks and undergarments, please go to the source of the sound immediately. I know you must not have time to buy it outside."
+        },
+        {
+            "name" : "Buyer 1",
+            "message": "Incredibly, his confidence is very high. I would not dare to sell like that."
+        },
+        {
+            "name" : "Seller",
+            "message": "Look, our products are of high quality. Not easy to stretch when pulled, thick, and warm. It is suitable for those of you who do not have time to bring a change of clothes in this bathing pool."
+        },
+        {
+            "name" : "Buyer 2",
+            "message": "What price do you offer?"
+        },
+        {
+            "name" : "Seller",
+            "message": "One package 10 dollars. You can already get 3 pairs of socks and a drawstring. This is a limited offer."
+        },
+        {
+            "name" : "Buyer 2",
+            "message": "It's too expensive out there for 10 dollars to get 4 pairs of socks."
+        },
+        {
+            "name" : "Seller",
+            "message": "We will not force you. Please buy if you feel uncomfortable with the dirty clothes you are wearing today."
+        },
+        {
+            "name" : "Buyer 1",
+            "message": "All right, I bought it. You found the right market."
+        },
+        {
+            "name" : "Seller",
+            "message": "Of course, I'll sell them all out haha. Thank you for ordering."
+        },
+    ],
+    36: [
+        {
+            "name" : "Student",
+            "message": "Good afternoon, Sir? I'm a Patria Vocational High School student. I want to sell some of my crafts, Sir. Please have a look first, maybe you are interested."
+        },
+        {
+            "name" : "Sir Rahmat",
+            "message": "What items do you sell?"
+        },
+        {
+            "name" : "Student",
+            "message": "This is Sir, my group's craft output, Sir. There are knitting bags, wooden shoes, miniature shelters. Which one do you want to buy?"
+        },
+        {
+            "name" : "Sir Rahmat",
+            "message": "Wow, what group? Why are you so creative?"
+        },
+        {
+            "name" : "Student",
+            "message": "Yes Sir, so this is one of the tasks of entrepreneurship. My class is divided into groups of two people and 4 people to make handicrafts that will be sold later."
+        },
+        {
+            "name" : "Sir Rahmat",
+            "message": "Ooh entrepreneurship. Okay, I'll just take the miniature of the house, okay? How much it costs?"
+        },
+        {
+            "name" : "Student",
+            "message": "This is 50 thousand for the unit price. Please choose the model that suits your taste."
+        }
+    ],
+    37: [
+        {
+            "name" : "Steve",
+            "message": "Hi Luna. Have you decided who will join you to do Mr. Aaron’s taks?"
+        },
+        {
+            "name" : "Luna",
+            "message": "Hi, Steve. I have not think about it. Would you like to join me? I think we'd get along well if we did it together."
+        },
+        {
+            "name" : "Steve",
+            "message": "Have you determined the customer segment for your merchandise? I would agree if we have the same segment."
+        },
+        {
+            "name" : "Luna",
+            "message": "Of course I will take the upper segment of the customer. Because I'm more concerned with quality than quantity of sales. What do you think?"
+        },
+        {
+            "name" : "Steve",
+            "message": "Wow, what a shame Luna. I prefer the middle class customer segment. Of course I still pay attention to quality but I also need quantity to increase my profits."
+        },
+        {
+            "name" : "Luna",
+            "message": "Well, all right Steve. I will find another partner to work with."
+        },
+        {
+            "name" : "Steve",
+            "message": "Can't you change your opinion? I have no other friends to work with."
+        },
+        {
+            "name" : "Luna",
+            "message": "No, I will not be satisfied if selling merchandise that is not up to my standards."
+        },
+        {
+            "name" : "Steve",
+            "message": "What a perfectionist!"
+        }
+    ],
+    38: [
+        {
+            "name" : "Teacher",
+            "message": "Good afternoon buddy. Please pay attention to me."
+        },
+        {
+            "name" : "Student",
+            "message": "Yes, sir. We will pay attention to you. Please continue your word."
+        },
+        {
+            "name" : "Teacher",
+            "message": "Soon it will be exam time. For the subject of entrepreneurship, I will give group assignments."
+        },
+        {
+            "name" : "Student",
+            "message": "All right, sir. We will discuss the division of the group."
+        },
+        {
+            "name" : "Teacher",
+            "message": "Yes, I will give each group a different type of customer to offer the merchandise you have made last month."
+        },
+        {
+            "name" : "Student",
+            "message": "OK, we understand."
+        },
+        {
+            "name" : "Teacher",
+            "message": "Then make a sales report and analyze what are the advantages and disadvantages that you find from your goods."
+        },
+        {
+            "name" : "Student",
+            "message": "Alright, we're ready to do it."
+        }
+    ],
+    39: [
+        {
+            "name" : "Kid",
+            "message": "Mommy, next week there will be a student market at my school. Can you help me?"
+        },
+        {
+            "name" : "Mommy",
+            "message": "When was that? What are the conditions?"
+        },
+        {
+            "name" : "Kid",
+            "message": "Precisely on the weekend. It is not difficult for us to be freed to sell any goods. But my teacher suggested to sell this type of drink because the profit is high and sells quickly."
+        },
+        {
+            "name" : "Mommy",
+            "message": "All right, how many pcs do you want to sell? Do you have capital? It will be more interesting if you sell flavored drinks because they are more varied so that many will buy your merchandise."
+        },
+        {
+            "name" : "Kid",
+            "message": "I have a capital of 10 thousand. is this enough? I will sell whatever Mommy makes, but please help me to prepare it."
+        },
+        {
+            "name" : "Mommy",
+            "message": "All right, that's more than enough. We only sell Rainbow Ice, what do you think?"
+        },
+        {
+            "name" : "Kid",
+            "message": "Fine, Mommy. Thanks."
+        }
+    ],
+    40: [
+        {
+            "name" : "Brian’s Mother",
+            "message": "Hello, Mrs. Lynn. Have you heard that next week there will be a student market at the school?"
+        },
+        {
+            "name" : "Mrs. Lynn",
+            "message": "Hello. Well I just heard from you. Brian didn't say anything to me."
+        },
+        {
+            "name" : "Brian’s Mother",
+            "message": "Oh my, prepare it well. I heard it will affect his entrepreneurial value."
+        },
+        {
+            "name" : "Mrs. Lynn",
+            "message": "I didn't think much of the value. Besides, it's not time for him to work."
+        },
+        {
+            "name" : "Brian’s Mother",
+            "message": "Still, introduce the business world to him as early as possible. Who knew he had the hidden talent to become a business man someday."
+        },
+        {
+            "name" : "Mrs. Lynn",
+            "message": "Haha, alright. I'll ask Brian first. Thank you for giving me the information."
+        },
+        {
+            "name" : "Brian’s Mother",
+            "message": "No problem."
+        }
+    ],
+    41: [
+        {
+            "name" : "Corney",
+            "message": "How is it going, Rey?"
+        },
+        {
+            "name" : "Reya",
+            "message": "Hi, I'm feeling good. Look what I brought here."
+        },
+        {
+            "name" : "Corney",
+            "message": "Wow, how did you get that? Isn't this a limited edition album?"
+        },
+        {
+            "name" : "Reya",
+            "message": "That's right, I took the offer as an online reseller. So, apart from the profit from the sale I also had the opportunity to keep the items that came to me according to my choice."
+        },
+        {
+            "name" : "Corney",
+            "message": "Amazing, is there any other way to do business like you?"
+        },
+        {
+            "name" : "Reya",
+            "message": "You must have an online store before starting this business. Come closer, I will teach you."
+        },
+        {
+            "name" : "Corney",
+            "message": "Yeay, thank you."
+        }
+    ],
+    42: [
+        {
+            "name" : "Mother",
+            "message": "Woody, do you know how to register this knitted product in an online store?"
+        },
+        {
+            "name" : "Woody",
+            "message": "Let me show you how, first choose a trusted online store that fits your merchandise."
+        },
+        {
+            "name" : "Mother",
+            "message": "I've determined my destination online shop, so what else?"
+        },
+        {
+            "name" : "Woody",
+            "message": "If you have set up a domain and hosting to develop your online store web."
+        },
+        {
+            "name" : "Mother",
+            "message": "Wow, after that it can operate means?"
+        },
+        {
+            "name" : "Woody",
+            "message": "Not yet, after that register a username, select the cart, and pay off the bill."
+        },
+        {
+            "name" : "Mother",
+            "message": "Wow, is it like this?"
+        },
+        {
+            "name" : "Woody",
+            "message": "Yeah, you did it well, Mom."
+        },
+        {
+            "name" : "Mother",
+            "message": "Woody, do you know how to register this knitted product in an online store?"
+        }
+    ],
+    43: [
+        {
+            "name" : "Budi",
+            "message": "Are you free this weekend?"
+        },
+        {
+            "name" : "Eka",
+            "message": "I have free time after 12am. What is it?"
+        },
+        {
+            "name" : "Budi",
+            "message": "I have 2 tickets for online business seminars. Do you want to come with me?"
+        },
+        {
+            "name" : "Eka",
+            "message": "Where is the place? What time is it?"
+        },
+        {
+            "name" : "Budi",
+            "message": "At Patria Garden Hotel, 1pm. Come on, there is a lot of knowledge about online business that we can get."
+        },
+        {
+            "name" : "Eka",
+            "message": "Fine, but can you pick me up. I don't have a vehicle."
+        },
+        {
+            "name" : "Budi",
+            "message": "Ok."
+        }
+    ],
+    44: [
+        {
+            "name" : "Louis",
+            "message": "Mery, come here please. I need your help."
+        },
+        {
+            "name" : "Mery",
+            "message": "What's wrong Louis? You look like you've seen a ghost."
+        },
+        {
+            "name" : "Louis",
+            "message": "Look, I just completed a transaction on my online shopping account. But the transaction data cannot be displayed. How about this?"
+        },
+        {
+            "name" : "Mery",
+            "message": "Oh no. It could be that you have been scammed."
+        },
+        {
+            "name" : "Louis",
+            "message": "What is a scam? I'm hearing it for the first time."
+        },
+        {
+            "name" : "Mery",
+            "message": "It was a scam, you look like you have completed the transaction but the money is gone."
+        },
+        {
+            "name" : "Louis",
+            "message": "Can we report it to the police? I can't accept it."
+        },
+        {
+            "name" : "Mery",
+            "message": "Don't worry, let's contact the shop owner first. Who knows there is a solving."
+        },
+    ],
+    45: [
+        {
+            "name" : "Manager",
+            "message": "Is this the new intern?"
+        },
+        {
+            "name" : "Intern",
+            "message": "Yes that's right, I'm David an intern in the online sales division."
+        },
+        {
+            "name" : "Manager",
+            "message": "Welcome, do you know what you need to do?"
+        },
+        {
+            "name" : "Intern",
+            "message": "Yes, the team head has informed me about my job desk including replying to messages from customers, confirm orders from customers, as well as manage social media."
+        },
+        {
+            "name" : "Manager",
+            "message": "Great, out of all of that, do you know what's the most important thing?"
+        },
+        {
+            "name" : "Intern",
+            "message": "Not yet Sir, is there anything else I should do?"
+        },
+        {
+            "name" : "Manager",
+            "message": "You have to master digital technology that is currently trending. Trending is a key to sucessed managing the online shopping."
+        },
+        {
+            "name" : "Intern",
+            "message": "Ok, I will remember your message carefully."
         }
     ]
 }
