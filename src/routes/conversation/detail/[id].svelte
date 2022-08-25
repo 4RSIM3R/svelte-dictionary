@@ -1,5 +1,5 @@
 <script>
-    import { conversationDetail } from "../api/conversation";
+    import { conversationDetail } from "../../api/conversation";
     import { page } from "$app/stores";
     import { onMount } from "svelte";
 
