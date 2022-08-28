@@ -11,7 +11,7 @@
 </script>
 
 <div class="min-h-screen flex flex-col p-8">
-    <h1 class="mb-4 text-xl font-semibold">Business Vocabulary</h1>
+    <h1 class="mb-4 text-xl font-semibold">Business Verb</h1>
     <div class="flex flex-col overflow-y-auto">
         {#each words as word}
             <div class="w-full p-4 shadow-md rounded-sm mb-4">
